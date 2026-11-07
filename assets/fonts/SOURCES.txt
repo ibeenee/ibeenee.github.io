@@ -1,0 +1,3 @@
+Font subsets obtained from Google Fonts; bytes preserved unchanged.
+https://fonts.google.com/specimen/Source+Serif+4
+https://fonts.google.com/noto/specimen/Noto+Sans+KR
